@@ -20,13 +20,35 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 - **Python Basics**: Introduction to fundamental Python concepts, including variables, data types, loops, and basic data structures. Start writing simple Python scripts to manipulate and analyze data.
 
 
-### [Week 3: Data Visualization with Matplotlib in Python](week3.md)
+### [Week 3: Scatter Plot with Matplotlib in Python](week3.md)
 **Summary**:
 - Summary: Introduction to **Matplotlib** for creating line and scatter plots in Python. Learn to customize plots with different styles, colors, and markers, and visualize various mathematical functions using these fundamental plotting techniques.
 
 
-### [Week 4: Data Visualization with Matplotlib in Python V2](week4.md)
+### [Week 4: Bar Graph with Matplotlib](week4.md)
+
+**Summary**:
+
+**Week Focus**: Using bar graphs to compare numerical values across categories.
+- Bar Graph Types:
+  -  Simple Bar Charts: Individual amounts; start y-axis at zero.
+  -   Grouped Bar Charts: Compare values within a category.
+  -   Stacked Bar Charts: Show parts of a whole.
+   
+-----------
+
+### [Q&A](Q&A.md)
+
+For more detailed answers to common questions about the course, check out the full Q&A section. This resource covers everything from course materials and tools to tips for succeeding in Data Science.
+
+
+
+
+
+
 
 **Note**:  
 To review material from last year, please check this repository:  
 [Data110-32213 Repository](https://github.com/Reben80/Data110-32213)
+
+
